@@ -1,0 +1,94 @@
+﻿{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "da {@minRTP}% a {@maxRTP}%",
+    "paybackTitle": "Ritorno previsto",
+    "paybackBody": "Per questo gioco, il ritorno teoricamente previsto sul lungo termine è pari a {RTP}.",
+    "subheading": "Prezzo biglietto: {ticketCost}",
+    "prizeLevel": "Livello del premio",
+    "description": "Descrizione",
+    "prizeValue": "Valore del premio",
+    "descriptionText1": "L’abbinamento dei numeri assegna un premio",
+    "descriptionText2": "Vincita Bonus",
+	    "overallChances": "Nel complesso, vi è 1 possibilità su {odds} di vincere un premio in ogni partita.",
+    "prizeDivision": "Divisione del premio",
+    "prizeRemaining": "Premi rimanenti approssimativamente",
+    "oddsPerPlay": "Probabilità per partita"
+	
+  },
+  "title": "Silver Stars Supreme",
+  "MenuCommand": {
+    "price": "Prezzo",
+    "stake": "Puntata",
+    "howToPlay": "Aiuto",
+    "paytable": "Tabella dei pagamenti",
+    "close": "Chiudi",
+    "audio": {
+      "sound": "Audio",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Errore: ",
+    "genericErrorText": "Si è verificato un errore interno. ESCI e riavvia il gioco."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "PREZZO BIGLIETTO",
+    "ticketSelect_ticketCost": "PREZZO BIGLIETTO",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "PROVA "
+    },
+    "footer_win": {
+      "BUY": "VINCITA",
+      "TRY": "VINCITA DEMO"
+    },
+
+    "button_buy": {
+      "BUY": "ACQUISTA",
+      "TRY": "PROVA"
+    },
+    "button_try": "PROVA",
+    "button_continue": "CONTINUA",
+	"button_retry": "RIPROVA",
+    "button_moveToMoney": "GIOCA CON DENARO REALE",
+    "button_autoPlay": "MOSTRA TUTTI",
+    "button_stop": "STOP",
+    "button_playAgain":{
+      "BUY": "GIOCA ANCORA",
+      "TRY": "RIPROVA"
+    },
+    "button_tryAgain": "RIPROVA",
+    "button_ok": "OK",
+    "button_exit": "ESCI",
+    
+    "error_button_exit": "ESCI",
+    "error_title": "ERRORE",
+    
+    "message_nonWin": "SARAI PIÙ FORTUNATO\nLA PROSSIMA VOLTA",
+    "message_win": {
+      "BUY": "VINCITA TOTALE",
+      "TRY": "VINCITA DEMO TOTALE"
+    },
+
+    "howToPlay": "COME SI GIOCA",
+    "page1": "Abbina i tuoi numeri ai numeri fortunati e vinci il premio corrispondente.\n\nRivela un simbolo 2x per vincere immediatamente il doppio del premio.\n\nRivela un simbolo del Forziere Dorato e vinci tutti i premi immediatamente.\n\nRivela 5 Gemme Blu tra i tuoi numeri per accedere alla partita Bonus.",
+    "page2": "PARTITA BONUS\n\nTrova 3 o più Gemme Blu per vincere un premio.\n\nRivela 3 simboli X argentati oppure conquista il premio più alto per terminare la partita.",
+
+    "winUpToText": "VINCI FINO A",
+    "winUpToValue": "{0}!",
+    "bonus": "BONUS",
+    "bonusNoWin": "NESSUNA VINCITA BONUS",
+    "bonusWin": "BONUS: {0}",
+
+    "winAll":"VINCI TUTTO",
+    "bonusLives":"TROVA 3 X PER TERMINARE IL BONUS",
+    "bonusInfo":"TROVA 3 O PIÙ GEMME BLU PER VINCERE!",
+    
+    "yourNumbers": "I TUOI NUMERI",
+    "luckyNumbers": "NUMERI FORTUNATI"
+  }
+}

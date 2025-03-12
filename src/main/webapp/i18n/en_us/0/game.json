@@ -1,0 +1,86 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "from {@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "prizeValue": "Prize Value"
+  },
+  "title": "TEMPLATE",
+  "MenuCommand": {
+    "price": "Price",
+    "stake": "Stake",
+    "howToPlay": "Help",
+    "paytable": "Paytable",
+    "close": "Close",
+    "audio": {
+      "sound": "Sound",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error: Error: ",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game. There has been an internal error. EXIT and relaunch the game."
+  },
+  "Game": {
+    "footer_balance": "BALANCE BALANCE",
+    "footer_ticketCost": "TICKET COST TICKET COST",
+    "ticketSelect_ticketCost": "TICKET COST TICKET COST",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "TRY TRY "
+    },
+    "footer_win": {
+      "BUY": "WIN WIN",
+      "TRY": "DEMO WIN DEMO WIN"
+    },
+
+    "button_buy": {
+      "BUY": "BUY BUY",
+      "TRY": "TRY TRY"
+    },
+    "button_try": "TRY TRY",
+    "button_continue": "CONTINUE CONTINUE",
+	"button_retry": "RETRY RETRY",
+    "button_moveToMoney": "MOVE TO MONEY MOVE TO MONEY",
+    "button_autoPlay": "REVEAL ALL REVEAL ALL",
+    "button_stop": "STOP STOP",
+    "button_playAgain":{
+      "BUY": "PLAY AGAIN PLAY AGAIN",
+      "TRY": "TRY AGAIN TRY AGAIN"
+    },
+    "button_tryAgain": "TRY AGAIN TRY AGAIN",
+    "button_ok": "OK OK",
+    "button_exit": "EXIT EXIT",
+    
+    "error_button_exit": "EXIT EXIT",
+    "error_title": "ERROR ERROR",
+    
+    "message_nonWin": "BETTER LUCK\nNEXT TIME! BETTER LUCK\nNEXT TIME",
+    "message_win": {
+      "BUY": "TOTAL WIN TOTAL WIN",
+      "TRY": "TOTAL DEMO WIN TOTAL DEMO WIN"
+    },
+
+    "howToPlay": "HOW TO PLAY HOW TO PLAY",
+    "page1": "Match Your Numbers to Lucky Numbers and win a prize.\n\nReveal a 2x symbol to double the prize amount shown below.\n\nReveal a Golden Chest symbol and win all prizes instantly.\n\nReveal 5 Blue Gemstones in Your Numbers to enter the Bonus game. Match Your Numbers to Lucky Numbers and win a prize.\n\nReveal a 2x symbol to double the prize amount shown below.\n\nReveal a Golden Chest symbol and win all prizes instantly.\n\nReveal 5 Blue Gemstones in Your Numbers to enter the Bonus game.",
+    "page2": "BONUS GAME\n\nFind 3 or more Blue Gemstones to win a prize.\n\nReveal 3 Silver X symbols or win the top prize to finish the game. BONUS GAME\n\nFind 3 or more Blue Gemstones to win a prize.\n\nReveal 3 Silver X symbols or win the top prize to finish the game.",
+
+    "winUpToText": "WIN UP TO WIN UP TO",
+    "winUpToValue": "{0}!",
+    "bonus": "BONUS BONUS",
+    "bonusNoWin": "NO BONUS WIN NO BONUS WIN",
+    "bonusWin": "BONUS BONUS: {0}",
+
+    "winAll":"WIN ALL WIN ALL",
+    "bonusLives":"FIND 3 X's TO END BONUS FIND 3 X's TO END BONUS",
+    "bonusInfo":"FIND 3 OR MORE GOLD STARS TO WIN! FIND 3 OR MORE GOLD STARS TO WIN!",
+
+    "yourNumbers": "YOUR NUMBERS YOUR NUMBERS",
+    "luckyNumbers": "LUCKY NUMBERS LUCKY NUMBERS"
+  }
+}

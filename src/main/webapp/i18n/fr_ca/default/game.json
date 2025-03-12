@@ -1,0 +1,94 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "est de {@minRTP} %",
+    "RTPrange": "varie de {@minRTP} % à {@maxRTP} %",
+    "paybackTitle": "Taux de retour théorique",
+    "paybackBody": "Pour ce jeu, le taux de retour théorique moyen à long terme {RTP}.",
+    "subheading": "Coût du billet : {ticketCost}",
+    "prizeLevel": "Niveau du lot",
+    "description": "Description",
+    "prizeValue": "Valeur du lot",
+    "descriptionText1": "Gain pour numéros identiques",
+    "descriptionText2": "Lot boni",
+	    "overallChances": "Globalement, vous avez 1 chance sur {odds} de gagner un lot à chaque partie.",
+    "prizeDivision": "Répartition des lots",
+    "prizeRemaining": "Nombre approximatif de lots restants",
+    "oddsPerPlay": "Chances par partie"
+	
+  },
+  "title": "Silver Stars Supreme",
+  "MenuCommand": {
+    "price": "Prix",
+    "stake": "Mise",
+    "howToPlay": "Aide",
+    "paytable": "Table de paiement",
+    "close": "Fermer",
+    "audio": {
+      "sound": "Son",
+      "on": "Activé",
+      "off": "Désactivé"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Erreur : ",
+    "genericErrorText": "Une erreur interne est survenue. QUITTEZ le jeu et relancez-le."
+  },
+  "Game": {
+    "footer_balance": "SOLDE",
+    "footer_ticketCost": "COÛT DU BILLET",
+    "ticketSelect_ticketCost": "COÛT DU BILLET",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "ESSAYER "
+    },
+    "footer_win": {
+      "BUY": "GAIN",
+      "TRY": "GAIN FICTIF"
+    },
+
+    "button_buy": {
+      "BUY": "ACHETER",
+      "TRY": "ESSAYER"
+    },
+    "button_try": "ESSAYER",
+    "button_continue": "CONTINUER",
+	"button_retry": "RÉESSAYER",
+    "button_moveToMoney": "MODE ARGENT RÉEL",
+    "button_autoPlay": "TOUT AFFICHER",
+    "button_stop": "ARRÊTER",
+    "button_playAgain":{
+      "BUY": "JOUER DE NOUVEAU",
+      "TRY": "ESSAYER DE NOUVEAU"
+    },
+    "button_tryAgain": "ESSAYER DE NOUVEAU",
+    "button_ok": "OK",
+    "button_exit": "QUITTER",
+
+    "error_button_exit": "QUITTER",
+    "error_title": "ERREUR",
+
+    "message_nonWin": "MEILLEURE CHANCE\nLA PROCHAINE FOIS",
+    "message_win": {
+      "BUY": "GAIN TOTAL",
+      "TRY": "GAIN FICTIF TOTAL"
+    },
+
+    "howToPlay": "COMMENT JOUER",
+    "page1": "Faites correspondre vos numéros aux numéros chanceux et gagnez le lot correspondant.\n\nDécouvrez un symbole 2x et gagnez le double de la valeur du lot instantanément.\n\nDécouvrez un symbole Coffre-fort doré et gagnez tous les lots instantanément.\n\n Découvrez cinq pierres précieuses bleues parmi vos numéros pour déclencher le jeu boni.",
+    "page2": "JEU BONI\n\nDécouvrez trois pierres précieuses bleues ou plus pour gagner un lot.\n\nDécouvrez trois symboles X argentés ou gagnez le lot le plus élevé pour mettre fin au jeu.",
+
+    "winUpToText": "GAGNEZ JUSQU’À",
+    "winUpToValue": "{0}!",
+    "bonus": "SYMBOLE BONI",
+    "bonusNoWin": "AUCUN GAIN BONI",
+    "bonusWin": "SYMBOLE BONI : {0}",
+
+    "winAll":"GAGNEZ TOUT",
+    "bonusLives":"TROUVEZ TROIS SYMBOLES X POUR METTRE FIN AU JEU BONI",
+    "bonusInfo":"TROUVEZ TROIS PIERRES PRÉCIEUSES BLEUES OU PLUS POUR GAGNER!",
+
+    "yourNumbers": "VOS NUMÉROS",
+    "luckyNumbers": "NUMÉROS CHANCEUX"
+  }
+}

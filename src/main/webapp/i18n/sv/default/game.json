@@ -1,0 +1,94 @@
+﻿{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "från {@minRTP} % till {@maxRTP} %",
+    "paybackTitle": "Förväntad återbetalning",
+    "paybackBody": "För det här spelet är den långsiktiga, teoretiskt förväntade återbetalningen {RTP}.",
+    "subheading": "Lottkostnad: {ticketCost}",
+    "prizeLevel": "Prisnivå",
+    "description": "Beskrivning",
+    "prizeValue": "Prisvärde",
+    "descriptionText1": "Vinst från nummermatchning",
+    "descriptionText2": "Bonusvinst",
+	    "overallChances": "Sannolikheten att vinna ett pris är 1 på {odds} varje gång man spelar.",
+    "prizeDivision": "Prisindelning",
+    "prizeRemaining": "Ungefärligt antal återstående priser",
+    "oddsPerPlay": "Odds per spel"
+
+  },
+  "title": "Silver Stars Supreme",
+  "MenuCommand": {
+    "price": "Pris",
+    "stake": "Insats",
+    "howToPlay": "Hjälp",
+    "paytable": "Vinsttabell",
+    "close": "Stäng",
+    "audio": {
+      "sound": "Ljud",
+      "on": "På",
+      "off": "Av"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Fel: ",
+    "genericErrorText": "Det har inträffat ett internt fel. LÄMNA och starta om spelet."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "LOTTKOSTNAD",
+    "ticketSelect_ticketCost": "LOTTKOSTNAD",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "FÖRSÖK "
+    },
+    "footer_win": {
+      "BUY": "VINST",
+      "TRY": "DEMOVINST"
+    },
+
+    "button_buy": {
+      "BUY": "KÖP",
+      "TRY": "FÖRSÖK"
+    },
+    "button_try": "FÖRSÖK",
+    "button_continue": "FORTSÄTT",
+	"button_retry": "FÖRSÖK IGEN",
+    "button_moveToMoney": "FLYTTA TILL PENGAR",
+    "button_autoPlay": "AVSLÖJA ALLA",
+    "button_stop": "STOPPA",
+    "button_playAgain":{
+      "BUY": "SPELA IGEN",
+      "TRY": "FÖRSÖK IGEN"
+    },
+    "button_tryAgain": "FÖRSÖK IGEN",
+    "button_ok": "OK",
+    "button_exit": "LÄMNA",
+    
+    "error_button_exit": "LÄMNA",
+    "error_title": "FEL",
+    
+    "message_nonWin": "BÄTTRE LYCKA\nNÄSTA GÅNG",
+    "message_win": {
+      "BUY": "TOTAL VINST",
+      "TRY": "TOTAL DEMOVINST"
+    },
+
+    "howToPlay": "SÅ HÄR SPELAR DU",
+    "page1": "Matcha dina nummer med lyckonummer och vinn motsvarande pris.\n\nAvslöja en 2x-symbol och vinn dubbla prissumman direkt.\n\nAvslöja en guldkistsymbol och vinn alla priser direkt.\n\nAvslöja 5 blå ädelstenar i dina nummer för att komma till bonusspelet.",
+    "page2": "BONUSSPELET\n\nHitta 3 eller fler blå ädelstenar för att vinna ett pris.\n\nAvslöja 3 silver X-symboler eller vinn förstapriset för att avsluta spelet.",
+
+    "winUpToText": "VINN UPP TILL",
+    "winUpToValue": "{0}!",
+    "bonus": "BONUS",
+    "bonusNoWin": "INGEN BONUSVINST",
+    "bonusWin": "BONUS: {0}",
+
+    "winAll":"VINN ALLA",
+    "bonusLives":"HITTA 3 X för ATT AVSLUTA BONUSEN",
+    "bonusInfo":"HITTA 3 ELLER FLER BLÅ ÄDELSTENAR FÖR ATT VINNA!",
+    
+    "yourNumbers": "DINA NUMMER",
+    "luckyNumbers": "LYCKONUMMER"
+  }
+}

@@ -1,0 +1,89 @@
+﻿{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "de {@minRTP}% a {@maxRTP}%",
+    "paybackTitle": "Retorno esperado",
+    "paybackBody": "Para este jogo, o retorno esperado teórico de longo prazo é {RTP}.",
+    "subheading": "Valor da Aposta: {ticketCost}",
+    "prizeLevel": "Nível do Prêmio",
+    "description": "Descrição",
+    "prizeValue": "Valor do Prêmio",
+    "descriptionText1": "Prêmio de Combinação de Número",
+    "descriptionText2": "Prêmio do Bônus"
+  },
+  "title": "Silver Stars Supreme",
+  "MenuCommand": {
+    "price": "Preço",
+    "stake": "Aposta",
+    "howToPlay": "Ajuda",
+    "paytable": "Tabela de Pagamento",
+    "close": "Fechar",
+    "audio": {
+      "sound": "Som",
+      "on": "Ativado",
+      "off": "Desativado"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Erro: ",
+    "genericErrorText": "Ocorreu um erro interno. SAIA do jogo e reinicie."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "VALOR DA APOSTA",
+    "ticketSelect_ticketCost": "VALOR DA APOSTA",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "TENTAR "
+    },
+    "footer_win": {
+      "BUY": "PRÊMIO",
+      "TRY": "PRÊMIO DA DEMONSTRAÇÃO"
+    },
+
+    "button_buy": {
+      "BUY": "COMPRAR",
+      "TRY": "TENTAR"
+    },
+    "button_try": "TENTAR",
+    "button_continue": "CONTINUAR",
+	"button_retry": "TENTAR NOVAMENTE",
+    "button_moveToMoney": "PASSAR PARA DINHEIRO",
+    "button_autoPlay": "REVELAR TUDO",
+    "button_stop": "PARAR",
+    "button_playAgain":{
+      "BUY": "JOGAR NOVAMENTE",
+      "TRY": "TENTAR NOVAMENTE"
+    },
+    "button_tryAgain": "TENTAR NOVAMENTE",
+    "button_ok": "OK",
+    "button_exit": "SAIR",
+    
+    "error_button_exit": "SAIR",
+    "error_title": "ERRO",
+    
+    "message_nonWin": "MAIS SORTE\nNA PRÓXIMA VEZ",
+    "message_win": {
+      "BUY": "PRÊMIO TOTAL",
+      "TRY": "PRÊMIO TOTAL DA DEMONSTRAÇÃO"
+    },
+
+    "howToPlay": "COMO JOGAR",
+    "page1": "Se seus Números forem iguais aos Números da Sorte, você ganhará um prêmio.\n\nRevele um símbolo de 2x para dobrar o valor do prêmio.\n\nRevele um símbolo do Baú Dourado e ganhe todos os prêmios instantaneamente.\n\nRevele 5 Gemas Azuis nos Seus Números para entrar no Jogo Bônus.",
+    "page2": "JOGO BÔNUS\n\nEncontre 3 ou mais gemas Azuis para ganhar um prêmio.\n\nRevele 3 símbolos X de Prata ou ganhe o prêmio principal para encerrar o jogo.",
+
+    "winUpToText": "GANHE ATÉ",
+    "winUpToValue": "{0}!",
+    "bonus": "BÔNUS",
+    "bonusNoWin": "SEM PRÊMIO DO BÔNUS",
+    "bonusWin": "BÔNUS: {0}",
+
+    "winAll":"GANHE TUDO",
+    "bonusLives":"ENCONTRE 3 X's PARA ENCERRAR O BÔNUS",
+    "bonusInfo":"ENCONTRE 3 OU MAIS GEMAS AZUIS PARA GANHAR!",
+    
+    "yourNumbers": "SEUS NÚMEROS",
+    "luckyNumbers": "NÚMEROS DA SORTE"
+  }
+}
